@@ -50,7 +50,7 @@ Then visit `http://localhost:3000`.
 
 ## Secrets Management
 
-No credentials or API keys are hardcoded in this repository. CI/CD secrets are managed through GitHub Actions encrypted secrets.
+No credentials or API keys are hardcoded in this repository. CI/CD secrets are managed through GitHub Actions encrypted secrets. For full details and the individual contribution statement, see [SECRETS_AND_CONTRIBUTIONS.md](SECRETS_AND_CONTRIBUTIONS.md).
 
 ## AI Usage Disclosure
 
